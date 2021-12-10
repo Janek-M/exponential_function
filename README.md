@@ -6,5 +6,5 @@ leave a comment and I will try to awnser your question as quickly as I can.
 
 To use this program, you need to install python3.
 
-Thanks for using my code
+Thanks for using my code,
 Janek M
